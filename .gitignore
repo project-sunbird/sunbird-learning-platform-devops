@@ -1,0 +1,12 @@
+*.backup
+*.terrahelpbkp
+.terraform
+ekstep-terra-infra/terraform.tfstate.admin
+ekstep-terra-infra/terraform.tfstate.admin.backup
+ekstep-terra-infra/terraform.tfstate.devqa
+ekstep-terra-infra/terraform.tfstate.devqa.backup
+ekstep-terra-infra/terraform.tfstate.prod
+ekstep-terra-infra/terraform.tfstate.prod.backup
+.DS_Store
+*.retry
+Session.vim
